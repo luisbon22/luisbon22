@@ -4,7 +4,7 @@
 <h3 align="center">Junior Backend Developer · Java · Spring Boot</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-PERFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/luisbon22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:bonilladelgadoi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -88,4 +88,4 @@ Sports field booking app with admin and customer roles.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbon22&layout=compact&hide_border=true&langs_count=6" alt="Most used languages" height="150">
 </p>
 
-<p align="center">📫 Let's talk! Reach me on <a href="https://www.linkedin.com/in/TU-PERFIL">LinkedIn</a> or at <a href="mailto:bonilladelgadoi@gmail.com">bonilladelgadoi@gmail.com</a>.</p>
+<p align="center">📫 Let's talk! Reach me on <a href="https://www.linkedin.com/in/luisbon22">LinkedIn</a> or at <a href="mailto:bonilladelgadoi@gmail.com">bonilladelgadoi@gmail.com</a>.</p>
